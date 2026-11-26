@@ -15,7 +15,7 @@ pyautogui.FAILSAFE = False
 latest_result = None
 
 
-def result_callback(result):
+def result_callback(result, output_image, timestamp_ms):
     global latest_result
     latest_result = result
 
