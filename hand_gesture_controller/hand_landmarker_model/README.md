@@ -1,10 +1,14 @@
 You can download the model from here: 
 <br>
 <br>
-Documentation: https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker
+&ensp; Documentation: https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker
 <br>
-Direct download: https://huggingface.co/litert-community/MediaPipe-HandLandmarker-Full/resolve/main/hand_landmarker.task
+&ensp; Direct download: https://huggingface.co/litert-community/MediaPipe-HandLandmarker-Full/resolve/main/hand_landmarker.task
 
+After downloading, manage the project as in the [project-structure](../../README.md#project-structure).
+
+<br>
+<br>
 
 <b>
 NOTE:
